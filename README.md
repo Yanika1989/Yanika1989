@@ -1,4 +1,4 @@
-Hi 👋 My name is Hi My name is Yanika Montree I'm CPE Student at RSU =================================================================================================  * 🌍  I'm based in Thailand * ✉️  You can contact me at [yanika.m68@rsu.ac.th](mailto:yanika.m68@rsu.ac.th) * 🧠  C Programming Language Tutorial
+Hello 👋 My name is Yanika Montree I'm CPE Student at RSU =================================================================================================  * 🌍  I'm based in Thailand * ✉️  You can contact me at [yanika.m68@rsu.ac.th](mailto:yanika.m68@rsu.ac.th) * 🧠  C Programming Language Tutorial
 
 ### Skills  
 
